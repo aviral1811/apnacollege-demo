@@ -1,4 +1,4 @@
 # apnacollege-demo
 this is my first git repository.
 <br>
-author-aviral goyal
+author-aviral (apna college)
